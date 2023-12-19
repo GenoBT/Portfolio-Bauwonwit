@@ -9,6 +9,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  background-color: #978F8D;
 }
 
 html {
@@ -55,7 +56,7 @@ a {
 }
 
 a:hover {
-  color: grey;
+  color: rgb(197, 193, 193);
   text-decoration: underline;
   text-underline-offset: 1rem;
   text-decoration-color: rgb(181, 181, 181);
@@ -234,7 +235,7 @@ section {
 
 .btn-color-1,
 .btn-color-2 {
-  border: rgb(53, 53, 53) 0.1rem solid;
+  border: rgb(126, 123, 123) 0.1rem solid;
 }
 
 .btn-color-1:hover,
@@ -299,10 +300,10 @@ section {
 .details-container {
   padding: 1.5rem;
   flex: 1;
-  background: white;
+  background: #57403B;
   border-radius: 2rem;
-  border: rgb(53, 53, 53) 0.1rem solid;
-  border-color: rgb(163, 163, 163);
+  border: rgb(136, 128, 128) 0.1rem solid;
+  border-color: rgb(168, 165, 165);
   text-align: center;
 }
 
@@ -324,7 +325,7 @@ section {
 }
 
 .experience-sub-title {
-  color: rgb(85, 85, 85);
+  color: rgb(134, 130, 130);
   font-weight: 600;
   font-size: 1.75rem;
   margin-bottom: 2rem;
